@@ -1,0 +1,6 @@
+/service/__init__.py
+__init__.py
+.idea/
+.vscode/
+.DS_Store
+*.log
