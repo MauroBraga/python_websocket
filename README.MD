@@ -5,6 +5,7 @@
 flask shell
 
 db.create_all()
+exit()
 
 
 
